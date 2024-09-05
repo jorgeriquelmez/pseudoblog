@@ -6,6 +6,12 @@ body{
     padding: 0;
     margin: 0;
 }
+#cabecera{
+    background: #88f;
+    color: white;
+    margin: 0;
+    padding: o.5rem;
+}
 #container{
     width: 70%;
     padding: 1em;
